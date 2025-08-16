@@ -12,10 +12,10 @@ Each case-study folder contains the following files
 - Solutions are coded in **MySQL**
 
 ## Challenge case studies
-* 🍜[Case Study #1 - Danny's Diner](https://github.com/manaswikamila05/8-Week-SQL-Challenge/tree/main/Case%20Study%20%23%201%20-%20Danny's%20Diner)
-* 🍕[Case Study #2 - Pizza Runner](https://github.com/manaswikamila05/8-Week-SQL-Challenge/tree/main/Case%20Study%20%23%202%20-%20Pizza%20Runner)
-* 🥑[Case Study #3 - Foodie-Fi](https://github.com/manaswikamila05/8-Week-SQL-Challenge/tree/main/Case%20Study%20%23%203%20-%20Foodie-Fi)
-* 🪙[Case Study #4 - Data Bank](https://github.com/manaswikamila05/8-Week-SQL-Challenge/tree/main/Case%20Study%20%23%204%20-%20Data%20Bank)
+* 🍜[Case Study #1 - Danny's Diner](https://github.com/purushottamnimbalkar96k/8_Week_SQL/tree/main/Case%20Study%20%23%201%20-%20Danny's%20Diner)
+* 🍕[Case Study #2 - Pizza Runner](https://purushottamnimbalkar96k/8_Week_SQL/tree/main/Case%20Study%20%23%202%20-%20Pizza%20Runner)
+* 🥑[Case Study #3 - Foodie-Fi](https://github.com/purushottamnimbalkar96k/8_Week_SQL/tree/main/Case%20Study%20%23%203%20-%20Foodie-Fi)
+* 🪙[Case Study #4 - Data Bank](https://github.com/purushottamnimbalkar96k/8_Week_SQL/tree/main/Case%20Study%20%23%204%20-%20Data%20Bank)
 
 ## Support
 Give a ⭐️ if you like this project!
